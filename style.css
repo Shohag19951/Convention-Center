@@ -319,7 +319,7 @@
         font-size: 15px;
         margin-bottom: 10px;
         position: absolute;
-        bottom: -300px;
+        bottom: -520px;
         left: 100px;
     }
     /*------Our Package--------*/
@@ -352,10 +352,10 @@
     }
     #hot{
         margin-top: 10px;
-        margin-right: 40px;
+        margin-right: 60px;
     }
     .hot-btn{
-        top: 1900px;
+        top: 1850px;
     }
     /* ------Happy Clients-----*/
 
