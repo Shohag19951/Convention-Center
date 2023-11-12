@@ -265,7 +265,7 @@
         float: right;
        display: block;
        position: absolute;
-       left: 400px;
+       left: 300px;
       }
     .topnav.responsive {position: relative;}
     .topnav.responsive .icon {
@@ -316,8 +316,8 @@
         font-size: 15px;
         margin-bottom: 10px;
         position: absolute;
-        bottom: -600px;
-        left: 150px;
+        bottom: -550px;
+        left: 130px;
     }
     /*------Our Package--------*/
     .pkg-container{
@@ -349,7 +349,7 @@
     }
     #hot{
         margin-top: 10px;
-        margin-right: 150px;
+        margin-right: 120px;
     }
     .hot-btn{
         top: 1900px;
