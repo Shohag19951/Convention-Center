@@ -252,6 +252,9 @@
         display: none;
         margin-top: 15px;
     }
+    .topnav a{
+        font-size: 10px;
+    }
     .nav-bar{
         margin: 10px 15px;   
     }
@@ -316,8 +319,8 @@
         font-size: 15px;
         margin-bottom: 10px;
         position: absolute;
-        bottom: -550px;
-        left: 130px;
+        bottom: -300px;
+        left: 100px;
     }
     /*------Our Package--------*/
     .pkg-container{
@@ -349,7 +352,7 @@
     }
     #hot{
         margin-top: 10px;
-        margin-right: 120px;
+        margin-right: 40px;
     }
     .hot-btn{
         top: 1900px;
