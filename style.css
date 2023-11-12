@@ -253,11 +253,14 @@
         display: none;
     }
     .nav-bar{
-        margin: 20px 10px; 
-       
+        margin: 10px 5px 20px 5px;   
     }
     .topnav a{
-      font-size: 13px;
+      font-size: 15px;
+      padding: 10px;
+    }
+    .topnav a:hover {
+        padding: 10px;
     }
     .topnav a:not(:first-child) {display: none;}
       .topnav a.icon {
@@ -352,7 +355,7 @@
         margin-right: 60px;
     }
     .hot-btn{
-        top: 1920px;
+        top: 1950px;
     }
     /* ------Happy Clients-----*/
 
