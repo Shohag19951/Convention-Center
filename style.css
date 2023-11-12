@@ -16,7 +16,7 @@
     justify-content: space-between;
 }
 .topnav a{
-    float: left;
+    float: right;
     display: block;
     color: #140101;
     text-align: center;
@@ -248,28 +248,25 @@
 @media screen and (max-width: 576px) and (max-width: 992px){
     .logo{
         font-weight: 600;
-        font-size: 30px;
-        display: none;
+        font-size: 20px; 
         margin-top: 15px;
-    }
-    .topnav a{
-        font-size: 15px;
+        display: none;
     }
     .nav-bar{
-        margin: 10px 15px;   
+        margin: 20px 10px; 
+       
+    }
+    .topnav a{
+      font-size: 13px;
     }
     .topnav a:not(:first-child) {display: none;}
-    .topnav a.icon {
-        float: right;
-        display: block;
-    }
-      .topnav a:not(:first-child) {display: none;}
       .topnav a.icon {
         float: right;
-       display: block;
-       position: absolute;
-       left: 300px;
-      }
+        display: block;
+        position: absolute;
+        left: 350px;
+        
+       } 
     .topnav.responsive {position: relative;}
     .topnav.responsive .icon {
         position: absolute;
@@ -319,7 +316,7 @@
         font-size: 15px;
         margin-bottom: 10px;
         position: absolute;
-        bottom: -520px;
+        bottom: -550px;
         left: 100px;
     }
     /*------Our Package--------*/
@@ -355,7 +352,7 @@
         margin-right: 60px;
     }
     .hot-btn{
-        top: 1870px;
+        top: 1890px;
     }
     /* ------Happy Clients-----*/
 
